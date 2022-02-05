@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
+  </head>
+  <body><lang="eng">
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-        scale=1.0">
+      <link href="https://fonts.googleapis.com/css?family=Montserrat:normal,bold">
+      <link rel="stylesheet" href="/web/index.css">
+      <title>&lt;My document!</title>
+      <header>
+        <h1 style="font-family:Montserrat;font-weight:bold;font-size:30px;line-height:48px;letter-spacing:0.1;margin-top:10px;margin-left:80;class=&quot;logo&quot;">Medi
+          <span class="l&quot;logo-dot&quot;" style="max-width:756px;margin-left:550px">
+            <img src="http://clipart-library.com/img/1772285.jpg" <="" span=""></span></h1>
+      </header>
+      <main>
+        <section>
+          <h2 style="color:green;font-family:Montserrat;font-weight:normal;font-size:60px;line-height:20px;letter-spacing:0.1;margin-top:3px;margin-left:150px">yoga</h2>
+          <h3 style="color:brown;font-family:Montserrat;font-weight:normal;font-size:20px;line-height:20px;letter-spacing:0.1;margin-top:3px;margin-left:150px"
+            &gt;stay="" productive="" word="" remotely="">
+            <p>The Key to work-from-home success is to creat an environment that
+              allows you</p>
+            <p>to focus on the tasks at hand.Whether you are working from home
+              for the first time.</p>
+            <footer style="width:152px;height:64px;margin-top:50px;margen-left:200px;border-radious:6px;font-weight:bold;font-size:16px;line-hieght=32px;text-align:center">
+              <button>Learn More </button></footer>
+          </h3>
+        </section>
+        <p></p>
+      </main></lang="eng">
+  </body>
+</html>
